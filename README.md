@@ -1,6 +1,6 @@
 # ✏️ Character and Word Counter
 
-A simple desktop app that counts the number of words and characters as you type. Built with Python and Tkinter.
+A simple desktop app that counts the number of words and characters as you type. Built in Java.
 
 ---
 
