@@ -8,7 +8,7 @@ A simple desktop app that counts the number of words and characters as you type.
 
 - Real-time word and character count  
 - Clean and minimal interface  
-- Built with Python + Tkinter
+- Built with Java.
 
 ---
 
